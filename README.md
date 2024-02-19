@@ -14,6 +14,10 @@ Data Augmentation:
 
 - Data augmentation was used. The types of augmentation are change of height, length, rotation, zoom, applying colors and flipping.
 - Noise added in a gradual manner
+
+
+
+
   clean image: <img src="orange_leaf.jpg" width="350" title="hover text">
 
   
